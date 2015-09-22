@@ -1,0 +1,11 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../source/sass/style.scss",
+		"../source/sass/_company.scss"
+	],
+	"sourcesContent": [],
+	"mappings": "ACIA,IAAI,CAAC;EACH,gBAAgB,EALc,IAAI,GAI9B;;AAIN,OAAO,CAAC;EACN,gBAAgB,EARS,IAAI;EAS7B,KAAK,EARS,IAAI;EASlB,OAAO,EAAE,KAAM,GAHR",
+	"names": []
+}
