@@ -1,2 +1,2 @@
-# digite-uma-vez
-Cansado de digitar datas e destinos toda vez que acessa um novo site pra consulta de preço?
+# Digite uma vez
+Moved to: [practicing/digite-uma-vez](https://github.com/practicing/digite-uma-vez)
